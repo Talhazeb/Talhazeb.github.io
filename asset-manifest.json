@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Talhazeb.github.io/static/css/main.72c4c6c3.css",
-    "main.js": "/Talhazeb.github.io/static/js/main.4cf189e6.js",
+    "main.js": "/Talhazeb.github.io/static/js/main.9d8b02d8.js",
     "static/css/141.74d2faae.chunk.css": "/Talhazeb.github.io/static/css/141.74d2faae.chunk.css",
     "static/js/141.b4968556.chunk.js": "/Talhazeb.github.io/static/js/141.b4968556.chunk.js",
     "static/css/769.f10c1268.chunk.css": "/Talhazeb.github.io/static/css/769.f10c1268.chunk.css",
@@ -24,7 +24,7 @@
     "index.html": "/Talhazeb.github.io/index.html",
     "static/media/talksCardBack.svg": "/Talhazeb.github.io/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.72c4c6c3.css.map": "/Talhazeb.github.io/static/css/main.72c4c6c3.css.map",
-    "main.4cf189e6.js.map": "/Talhazeb.github.io/static/js/main.4cf189e6.js.map",
+    "main.9d8b02d8.js.map": "/Talhazeb.github.io/static/js/main.9d8b02d8.js.map",
     "141.74d2faae.chunk.css.map": "/Talhazeb.github.io/static/css/141.74d2faae.chunk.css.map",
     "141.b4968556.chunk.js.map": "/Talhazeb.github.io/static/js/141.b4968556.chunk.js.map",
     "769.f10c1268.chunk.css.map": "/Talhazeb.github.io/static/css/769.f10c1268.chunk.css.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.72c4c6c3.css",
-    "static/js/main.4cf189e6.js"
+    "static/js/main.9d8b02d8.js"
   ]
 }
